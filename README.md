@@ -1,6 +1,6 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Coding-Website-Layout.jpg)
 <h1 align="center">Hi 👋, I'm Theodoric Graham</h1>
-<h3 align="center">A CodeUp student with an eye for design.</h3>
+<h3 align="center">A CodeUp graduate with an eye for design.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theodoric-graham&label=Profile%20views&color=0e75b6&style=flat" alt="theodoric-graham" /> </p>
