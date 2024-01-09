@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theodoric-graham&label=Profile%20views&color=0e75b6&style=flat" alt="theodoric-graham" /> </p>
 
 
-- 🔭 I’m currently working on **Capstone Projects for Codeup**
+- 🔭 I’m currently working on **A Udemy React Course**
 
 - 🌱 I’m currently learning **React, and Node.js**
 
